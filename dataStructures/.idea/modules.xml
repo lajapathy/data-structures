@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Chop/.idea/Chop.iml" filepath="$PROJECT_DIR$/../Chop/.idea/Chop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/PycharmProjects.iml" filepath="$PROJECT_DIR$/../.idea/PycharmProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../String/.idea/String.iml" filepath="$PROJECT_DIR$/../String/.idea/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../blackjack/.idea/blackjack.iml" filepath="$PROJECT_DIR$/../blackjack/.idea/blackjack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../client-server/.idea/client-server.iml" filepath="$PROJECT_DIR$/../client-server/.idea/client-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dataStructures.iml" filepath="$PROJECT_DIR$/.idea/dataStructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../json/.idea/json.iml" filepath="$PROJECT_DIR$/../json/.idea/json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../multithreading/.idea/multithreading.iml" filepath="$PROJECT_DIR$/../multithreading/.idea/multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../os-subprocess/.idea/os-subprocess.iml" filepath="$PROJECT_DIR$/../os-subprocess/.idea/os-subprocess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../serializing/.idea/serializing.iml" filepath="$PROJECT_DIR$/../serializing/.idea/serializing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../subprocess/.idea/subprocess.iml" filepath="$PROJECT_DIR$/../subprocess/.idea/subprocess.iml" />
+    </modules>
+  </component>
+</project>
