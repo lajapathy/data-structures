@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Chop.iml" filepath="$PROJECT_DIR$/.idea/Chop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DP/.idea/DP.iml" filepath="$PROJECT_DIR$/../DP/.idea/DP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Logging/.idea/Logging.iml" filepath="$PROJECT_DIR$/../Logging/.idea/Logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OOP-Deisgn/.idea/OOP-Deisgn.iml" filepath="$PROJECT_DIR$/../OOP-Deisgn/.idea/OOP-Deisgn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Recursion/.idea/Recursion.iml" filepath="$PROJECT_DIR$/../Recursion/.idea/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../String/.idea/String.iml" filepath="$PROJECT_DIR$/../String/.idea/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../blackjack/.idea/blackjack.iml" filepath="$PROJECT_DIR$/../blackjack/.idea/blackjack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../collections/.idea/collections.iml" filepath="$PROJECT_DIR$/../collections/.idea/collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dataStructures/.idea/dataStructures.iml" filepath="$PROJECT_DIR$/../dataStructures/.idea/dataStructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../files/.idea/files.iml" filepath="$PROJECT_DIR$/../files/.idea/files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../iterator/.idea/iterator.iml" filepath="$PROJECT_DIR$/../iterator/.idea/iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lunch-talk-jan25/.idea/lunch-talk-jan25.iml" filepath="$PROJECT_DIR$/../lunch-talk-jan25/.idea/lunch-talk-jan25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mme-methods/.idea/mme-methods.iml" filepath="$PROJECT_DIR$/../mme-methods/.idea/mme-methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../os-subprocess/.idea/os-subprocess.iml" filepath="$PROJECT_DIR$/../os-subprocess/.idea/os-subprocess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../serializing/.idea/serializing.iml" filepath="$PROJECT_DIR$/../serializing/.idea/serializing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sorting/.idea/sorting.iml" filepath="$PROJECT_DIR$/../sorting/.idea/sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../statsTree/.idea/statsTree.iml" filepath="$PROJECT_DIR$/../statsTree/.idea/statsTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tricky/.idea/tricky_questions.iml" filepath="$PROJECT_DIR$/../tricky/.idea/tricky_questions.iml" />
+    </modules>
+  </component>
+</project>

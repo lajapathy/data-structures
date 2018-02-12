@@ -1,0 +1,35 @@
+Realm Name:                       nat-01  Context:                          core
+Current IP Address-In-Use:             0  Total IP Address:                65534
+Current Calls Using-Realm:             0  Current Port-Chunks Available:44038848
+Current Port-Chunks-In-Use:            0  Total Port-Chunks:            44038848
+Port-Chunk size:                      96
+Statistics:
+  Total AAA alloc msgs sent:           0  Total AAA dealloc msgs sent:         0
+  Total flows denied no IP:            0  Total flows denied no port:          0
+  NAT44 flows denied no IP:            0  NAT44 flows denied no port:          0
+  NAT64 flows denied no IP:            0  NAT64 flows denied no port:          0
+  Total flows denied no memory:        0
+  NAT44 flows denied no memory:        0  NAT64 flows denied no memory:        0
+  Total bytes Transferred:             0  Total flows processed:               0
+  NAT44 bytes Transferred:             0  NAT44 flows processed:               0
+  NAT64 bytes Transferred:             0  NAT64 flows processed:               0
+  Average TCP port usage:              0  Average UDP port usage:              0
+  Average Others port usage:           0
+
+Realm Name:                       nat-02  Context:                          core
+Current IP Address-In-Use:             0  Total IP Address:                65534
+Current Calls Using-Realm:             0  Current Port-Chunks Available:44038848
+Current Port-Chunks-In-Use:            0  Total Port-Chunks:            44038848
+Port-Chunk size:                      96
+Statistics:
+  Total AAA alloc msgs sent:           0  Total AAA dealloc msgs sent:         0
+  Total flows denied no IP:            0  Total flows denied no port:          0
+  NAT44 flows denied no IP:            0  NAT44 flows denied no port:          0
+  NAT64 flows denied no IP:            0  NAT64 flows denied no port:          0
+  Total flows denied no memory:        0
+  NAT44 flows denied no memory:        0  NAT64 flows denied no memory:        0
+  Total bytes Transferred:             0  Total flows processed:               0
+  NAT44 bytes Transferred:             0  NAT44 flows processed:               0
+  NAT64 bytes Transferred:             0  NAT64 flows processed:               0
+  Average TCP port usage:              0  Average UDP port usage:              0
+  Average Others port usage:           0

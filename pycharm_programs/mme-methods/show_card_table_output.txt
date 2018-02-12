@@ -1,0 +1,5 @@
+[local]qvpc-si# sho card table
+Thursday January 19 13:34:47 EST 2017
+Slot         Card Type                               Oper State     SPOF  Attach
+-----------  --------------------------------------  -------------  ----  ------
+ 1: VC       4-Port Virtual Card                     Active         -

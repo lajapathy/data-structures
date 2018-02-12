@@ -1,0 +1,11 @@
+
+Mod Ports             Module-Type                       Model          Status
+--- ----- ------------------------------------- --------------------- ---------
+1    52   48x10/25G + 4x40/100G Ethernet Module N9K-X97160YC-EX       ok
+4    32   32x100G Ethernet Module               N9K-X9732C-EX         ok
+22   0    4-slot Fabric Module                  N9K-C9504-FM-E        ok
+24   0    4-slot Fabric Module                  N9K-C9504-FM-E        powered-dn
+27   0    Supervisor Module                     N9K-SUP-A             active *
+28   0    Supervisor Module                     N9K-SUP-A             ha-standby
+29   0    System Controller                     N9K-SC-A              active
+30   0    System Controller                     N9K-SC-A              standby

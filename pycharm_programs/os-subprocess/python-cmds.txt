@@ -1,0 +1,8 @@
+
+print 'Im inside input file now'
+print 'Declaring a few variables now'
+a = 2
+b = 3
+print 'Assignment done. Adding the variables now'
+c = a+b
+print 'Final result is '+ str(c)

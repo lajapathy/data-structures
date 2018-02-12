@@ -1,0 +1,4 @@
+Im inside input file now
+Declaring a few variables now
+Assignment done. Adding the variables now
+Final result is 5

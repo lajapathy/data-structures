@@ -1,0 +1,32 @@
+First understand Popen constructor
+
+class subprocess.Popen(args, bufsize=0, executable=None, stdin=None, stdout=None, stderr=None, preexec_fn=None,
+close_fds=False, shell=False, cwd=None, env=None, universal_newlines=False, startupinfo=None, creationflags=0)
+
+    - Execute a child program in a new process
+    - args should be a sequence of program arguments or else a single string
+    If sequence:
+    - By default, the program to execute is the first item in args if args is a sequence.
+    - If args is a string, the interpretation is platform-dependent
+    - Unless otherwise stated, it is recommended to pass args as a sequence.
+    - On Unix, if args is a string, the string is interpreted as the name or path of the program to execute. However,
+      this can only be done if not passing arguments to the program.
+
+    If string:
+    - If shell is True, it is recommended to pass args as a string rather than as a sequence.
+
+
+##### 2 ways to get error stream #####
+1. First is redirecting stderr to stdout and only being concerned with stdout.
+   This can be done by setting the stderr argument to subprocess.STDOUT.
+2. Second is to create a Popen object with stderr set to subprocess.PIPE (optionally along with stdout argument)
+   and read from its stderr attribute which is a readable file-like object.
+3. There is also a convenience method on Popen class, called .communicate, which optionally takes a string to be
+   sent to the process's stdin and returns a tuple of (stdout_content, stderr_content).
+
+However, all of these assume that the command runs for some time, prints out a couple of lines of output and exits,
+so you can get the output(s) in strings. This is sometimes not the case. If you want to run a  network
+intensive command like an svn checkout, which prints each file as and when downloaded, you need something better.
+
+
+

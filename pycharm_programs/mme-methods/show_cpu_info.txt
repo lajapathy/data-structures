@@ -1,0 +1,129 @@
+Monday February 20 13:27:51 EST 2017
+Card 1, CPU 0:
+  Status                : Active, Kernel Running, Tasks Running
+  Load Average          : 6.55, 4.55, 2.05 (6.94 max)
+  Total Memory          : 49152M
+  Kernel Uptime         : 0D 0H 6M
+  Last Reading:
+    CPU Usage All       : 6.6% user, 1.9% sys, 0.0% io, 0.0% irq, 91.5% idle
+        Core 0          : 46.9% user, 1.1% sys, 0.0% io, 0.1% irq, 51.9% idle
+        Core 1          : Not Averaged (Poll CPU)
+        Core 2          : Not Averaged (Poll CPU)
+        Core 3          : Not Averaged (Poll CPU)
+        Core 4          : Not Averaged (Poll CPU)
+        Core 5          : Not Averaged (Poll CPU)
+        Core 6          : 1.9% user, 1.6% sys, 0.0% io, 0.0% irq, 96.5% idle
+        Core 7          : 1.6% user, 2.9% sys, 0.0% io, 0.0% irq, 95.5% idle
+        Core 8          : 8.9% user, 2.1% sys, 0.0% io, 0.1% irq, 88.9% idle
+        Core 9          : 5.9% user, 1.7% sys, 0.0% io, 0.0% irq, 92.4% idle
+        Core 10         : 1.9% user, 2.0% sys, 0.0% io, 0.0% irq, 96.1% idle
+        Core 11         : 1.1% user, 1.9% sys, 0.0% io, 0.0% irq, 97.0% idle
+        Core 12         : 1.0% user, 1.7% sys, 0.0% io, 0.0% irq, 97.3% idle
+        Core 13         : 0.8% user, 1.8% sys, 0.0% io, 0.0% irq, 97.4% idle
+        Core 14         : 1.4% user, 2.0% sys, 0.0% io, 0.1% irq, 96.5% idle
+        Core 15         : 0.9% user, 1.8% sys, 0.0% io, 0.0% irq, 97.3% idle
+    Poll CPUs           : 5 (1, 2, 3, 4, 5)
+        Core 1          : 100.0% user, 0.0% sys, 0.0% io, 0.0% irq, 0.0% idle
+        Core 2          : 100.0% user, 0.0% sys, 0.0% io, 0.0% irq, 0.0% idle
+        Core 3          : 100.0% user, 0.0% sys, 0.0% io, 0.0% irq, 0.0% idle
+        Core 4          : 100.0% user, 0.0% sys, 0.0% io, 0.0% irq, 0.0% idle
+        Core 5          : 100.0% user, 0.0% sys, 0.0% io, 0.0% irq, 0.0% idle
+    Processes / Tasks   : 325 processes / 124 tasks
+    Network loeth0      : 0.000 kpps rx, 0.000 mbps rx, 0.000 kpps tx, 0.000 mbps tx
+    Network port1_10    : 0.000 kpps rx, 0.000 mbps rx, 0.000 kpps tx, 0.000 mbps tx
+    Network port1_11    : 0.000 kpps rx, 0.000 mbps rx, 0.000 kpps tx, 0.000 mbps tx
+    Network port1_12    : 0.000 kpps rx, 0.000 mbps rx, 0.000 kpps tx, 0.000 mbps tx
+    Network port1_13    : 0.000 kpps rx, 0.000 mbps rx, 0.000 kpps tx, 0.000 mbps tx
+    Network mcdmaN      : 0.009 kpps rx, 0.005 mbps rx, 0.009 kpps tx, 0.005 mbps tx
+    Network Total       : 0.010 kpps rx, 0.005 mbps rx, 0.009 kpps tx, 0.005 mbps tx
+    File Usage          : 4704 open files, 4937814 available
+    Memory Usage        : 8895M 18.1% used, 289M 0.6% reclaimable
+    Memory Details:
+      Static            : 747M kernel, 135M system files
+      System            : 2M tmp, 59M buffers, 101M kcache, 489M cache
+      Process/Task      : 7496M (1488M small, 3882M huge, 2125M other)
+      Other             : 153M shared data
+      Free              : 39966M free
+      Usable            : 1182M usable (39966M free, 289M reclaimable, 39074M reserved by tasks)
+  5-Minute Average:
+    CPU Usage All       : 7.1% user, 2.1% sys, 0.0% io, 0.1% irq, 90.8% idle
+        Core 0          : 36.7% user, 1.6% sys, 0.0% io, 0.1% irq, 61.5% idle
+        Core 1          : Not Averaged (Poll CPU)
+        Core 2          : Not Averaged (Poll CPU)
+        Core 3          : Not Averaged (Poll CPU)
+        Core 4          : Not Averaged (Poll CPU)
+        Core 5          : Not Averaged (Poll CPU)
+        Core 6          : 13.8% user, 2.1% sys, 0.0% io, 0.1% irq, 84.0% idle
+        Core 7          : 5.8% user, 2.9% sys, 0.0% io, 0.1% irq, 91.2% idle
+        Core 8          : 4.2% user, 3.0% sys, 0.0% io, 0.1% irq, 92.7% idle
+        Core 9          : 5.5% user, 2.3% sys, 0.0% io, 0.1% irq, 92.1% idle
+        Core 10         : 3.3% user, 1.9% sys, 0.0% io, 0.0% irq, 94.8% idle
+        Core 11         : 1.9% user, 1.7% sys, 0.0% io, 0.0% irq, 96.4% idle
+        Core 12         : 2.2% user, 1.8% sys, 0.0% io, 0.0% irq, 96.0% idle
+        Core 13         : 1.8% user, 1.7% sys, 0.0% io, 0.0% irq, 96.4% idle
+        Core 14         : 1.3% user, 1.9% sys, 0.0% io, 0.0% irq, 96.8% idle
+        Core 15         : 1.5% user, 1.8% sys, 0.0% io, 0.0% irq, 96.7% idle
+    Poll CPUs           : 5 (1, 2, 3, 4, 5)
+        Core 1          : 100.0% user, 0.0% sys, 0.0% io, 0.0% irq, 0.0% idle
+        Core 2          : 100.0% user, 0.0% sys, 0.0% io, 0.0% irq, 0.0% idle
+        Core 3          : 100.0% user, 0.0% sys, 0.0% io, 0.0% irq, 0.0% idle
+        Core 4          : 100.0% user, 0.0% sys, 0.0% io, 0.0% irq, 0.0% idle
+        Core 5          : 100.0% user, 0.0% sys, 0.0% io, 0.0% irq, 0.0% idle
+    Processes / Tasks   : 308 processes / 110 tasks
+    Network loeth0      : 0.010 kpps rx, 0.012 mbps rx, 0.010 kpps tx, 0.020 mbps tx
+    Network port1_10    : 0.004 kpps rx, 0.005 mbps rx, 0.000 kpps tx, 0.000 mbps tx
+    Network port1_11    : 0.000 kpps rx, 0.000 mbps rx, 0.004 kpps tx, 0.005 mbps tx
+    Network port1_12    : 0.000 kpps rx, 0.000 mbps rx, 0.000 kpps tx, 0.000 mbps tx
+    Network port1_13    : 0.000 kpps rx, 0.000 mbps rx, 0.000 kpps tx, 0.000 mbps tx
+    Network mcdmaN      : 0.008 kpps rx, 0.004 mbps rx, 0.008 kpps tx, 0.004 mbps tx
+    Network Total       : 0.022 kpps rx, 0.021 mbps rx, 0.021 kpps tx, 0.029 mbps tx
+    File Usage          : 6038 open files, 4936480 available
+    Memory Usage        : 8073M 16.4% used, 258M 0.5% reclaimable
+    Memory Details:
+      Static            : 747M kernel, 135M system files
+      System            : 2M tmp, 55M buffers, 100M kcache, 458M cache
+      Process/Task      : 6678M (1305M small, 3270M huge, 2102M other)
+      Other             : 153M shared data
+      Free              : 40819M free
+      Usable            : 7853M usable (40819M free, 258M reclaimable, 33225M reserved by tasks)
+  Maximum/Minimum:
+    CPU Usage All       : 12.8% user, 5.6% sys, 0.2% io, 0.4% irq, 84.2% idle
+        Core 0          : 50.8% user, 9.2% sys, 2.6% io, 0.4% irq, 48.0% idle
+        Core 1          : Not Averaged (Poll CPU)
+        Core 2          : Not Averaged (Poll CPU)
+        Core 3          : Not Averaged (Poll CPU)
+        Core 4          : Not Averaged (Poll CPU)
+        Core 5          : Not Averaged (Poll CPU)
+        Core 6          : 26.5% user, 4.3% sys, 0.1% io, 0.4% irq, 70.5% idle
+        Core 7          : 19.5% user, 8.7% sys, 1.0% io, 0.7% irq, 76.6% idle
+        Core 8          : 17.7% user, 11.6% sys, 0.9% io, 0.7% irq, 74.6% idle
+        Core 9          : 16.0% user, 6.6% sys, 0.0% io, 0.8% irq, 79.8% idle
+        Core 10         : 9.1% user, 8.9% sys, 0.5% io, 0.2% irq, 84.8% idle
+        Core 11         : 6.5% user, 6.6% sys, 0.1% io, 0.2% irq, 88.9% idle
+        Core 12         : 24.5% user, 3.2% sys, 0.9% io, 0.1% irq, 72.2% idle
+        Core 13         : 18.9% user, 2.9% sys, 0.0% io, 0.5% irq, 78.0% idle
+        Core 14         : 5.1% user, 3.2% sys, 0.0% io, 0.5% irq, 93.8% idle
+        Core 15         : 9.4% user, 4.4% sys, 0.0% io, 0.2% irq, 88.5% idle
+    Poll CPUs           : 5 (1, 2, 3, 4, 5)
+        Core 1          : 100.0% user, 1.4% sys, 0.0% io, 0.3% irq, 0.0% idle
+        Core 2          : 100.0% user, 9.6% sys, 0.0% io, 0.3% irq, 0.0% idle
+        Core 3          : 100.0% user, 4.2% sys, 0.0% io, 0.9% irq, 0.0% idle
+        Core 4          : 100.0% user, 1.1% sys, 0.0% io, 0.0% irq, 0.0% idle
+        Core 5          : 100.0% user, 0.7% sys, 0.0% io, 0.0% irq, 0.0% idle
+    Processes / Tasks   : 329 processes / 124 tasks
+    Network loeth0      : 425299.776 kpps rx, 3402.398 mbps rx, 0.089 kpps tx, 0.224 mbps tx
+    Network port1_10    : 0.055 kpps rx, 0.095 mbps rx, 0.000 kpps tx, 0.000 mbps tx
+    Network port1_11    : 0.003 kpps rx, 0.003 mbps rx, 0.037 kpps tx, 0.076 mbps tx
+    Network port1_12    : 0.003 kpps rx, 0.003 mbps rx, 0.000 kpps tx, 0.000 mbps tx
+    Network port1_13    : 0.003 kpps rx, 0.003 mbps rx, 0.000 kpps tx, 0.000 mbps tx
+    Network mcdmaN      : 0.015 kpps rx, 0.013 mbps rx, 0.016 kpps tx, 0.014 mbps tx
+    Network Total       : 425299.840 kpps rx, 3402.514 mbps rx, 0.142 kpps tx, 0.314 mbps tx
+    File Usage          : 8544 open files, 4933974 available
+    Memory Usage        : 8901M 18.1% used, 289M 0.6% reclaimable
+    Memory Details:
+      Static            : 747M kernel, 135M system files
+      System            : 2M tmp, 59M buffers, 108M kcache, 489M cache
+      Process/Task      : 7538M (1508M small, 3882M huge, 2147M other)
+      Other             : 153M shared data
+      Free              : 39961M free
+      Usable            : -NA- (39961M free, 289M reclaimable, 39040M reserved by tasks)
