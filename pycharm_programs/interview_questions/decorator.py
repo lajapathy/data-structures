@@ -2,7 +2,6 @@ import time
 
 def calc_time(func):
     def deco_fun(*args, **kwargs):
-        list1 = []
         start_time = time.time()
         func(*args, **kwargs)
         end_time = time.time()
@@ -12,17 +11,16 @@ def calc_time(func):
 
 @calc_time
 def square(x):
-
+    list1 = []
     for i in range(x):
         list1.append(x*x)
 
 
 @calc_time
 def cube(x):
-
+    list1 = []
     for i in range(x):
         list1.append(x*x*x)
-    list1=[1,8,27]
 
 square(20000)
-#cube(20000)
+cube(20000)
